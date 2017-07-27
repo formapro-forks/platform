@@ -149,6 +149,7 @@
     },
     "autoload": {
         "psr-4": {"": "src/"},
-        "exclude-from-classmap": ["/Tests/"]
+        "exclude-from-classmap": ["/Tests/"],
+        "files": ["src/class_aliases.php"]
     }
 }
