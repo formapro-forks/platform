@@ -113,7 +113,8 @@
         "robloach/component-installer": "0.2.*",
         "jms/cg": "1.2.*",
         "oro/redis-config": "~2.0",
-        "brick/math": "0.5.*"
+        "brick/math": "0.5.*",
+        "queue-interop/queue-interop": "^0.5@dev"
     },
     "require-dev": {
         "sensio/generator-bundle": "3.1.2",
